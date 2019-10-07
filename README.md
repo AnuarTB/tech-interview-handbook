@@ -11,7 +11,7 @@
   </p>
 </div>
 
-## What is this?
+## What is this? kto sobaka
 
 Carefully curated content to help you ace your next technical interview, with a focus on algorithms and the front end domain. System design questions are in-progress. Besides the usual algorithm questions, other **awesome** stuff includes:
 
